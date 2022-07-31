@@ -2,6 +2,6 @@
 
 
 ## Copying config files to the .config directory
-``{bash}
+```{bash}
 cp ./.config ~/.config -r
 ```
